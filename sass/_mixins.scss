@@ -8,7 +8,7 @@
 }
 
 @mixin heroImages() {
-	background-image: $purple-gradient-second();
+	background-image: url('../img/gradient.png');
 	background-size: cover;
 	background-position: center;
 	background-attachment: fixed;
